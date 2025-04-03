@@ -30,7 +30,7 @@ Esta é uma API REST desenvolvida em Node.js utilizando o framework Express e o 
 ## Instalação e Configuração
 1. Clone o repositório:
    ```bash
-   git clone <URL-DO-SEU-REPOSITORIO>
+   git clone <https://github.com/RhyanStrauss/backendFTT/edit/main/README.md>
    
 2. Instale as dependências:
    ```bash
